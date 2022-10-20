@@ -1,6 +1,6 @@
 # Sei wallet bot by L0vd.com
 
-@L0vd_Sei_Bot
+https://t.me/L0vd_Sei_Bot
 
 ## Telegram Bot
 The bot does several useful things.
