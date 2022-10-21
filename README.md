@@ -30,7 +30,7 @@ To get started, add your wallet address. After that, you will be able to see the
 
 ## Screenshots
 **Start**  
-![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/start.png =250x250)  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/start.png)  
 **Token Info**  
 ![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/token_info.png?raw=true)  
 **Balance Mode**  
