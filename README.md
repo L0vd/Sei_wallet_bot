@@ -27,3 +27,17 @@ To get started, add your wallet address. After that, you will be able to see the
 📢 Proposals - List of proposals  
 📂 Help - List of commands  
 📚 Menu - Call menu buttons  
+
+## Screenshots
+**Start**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/start.png?raw=true)  
+**Token Info**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/token_info.png?raw=true)  
+**Balance Mode**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/balance.png?raw=true)  
+**Validators Mode**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/validators.png)  
+**Proposals Mode**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/proposals.png?raw=true)  
+**Help**  
+![Screenshot](https://github.com/L0vd/screenshots/blob/main/sei/help.png?raw=true)
